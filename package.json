@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "A simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "hapi": "^18.1.0",
+    "save": "^2.4.0"
+  }
+}
